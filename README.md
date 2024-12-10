@@ -1,3 +1,34 @@
+## CRUD App Sandbox
+React Native and Expo Go (https://docs.expo.dev/) 
+https://www.youtube.com/watch?v=WDunoPNBxKA
+
+Need the Expo Go app
+Using npm in this project
+
+## Create:
+	•	Adding new data or a new record to a database with async storage.
+	•	Example: Adding a new todo.
+## Read:
+	•	Retrieving or reading data from a database.
+	•	Example: Viewing a list or specific todo.
+## Update:
+	•	Modifying existing data in a database.
+	•	Example: Editing a todo or updating a todo.
+## Delete:
+	•	Removing data from a database.
+	•	Example: Deleting a todo.
+
+
+## CRUD App Dev Server
+Expo development build in expo dev account.
+This is to test the mobile app natively on device via development server.
+This is the step needed before deploying to the App Stores.
+
+- Use android to test for free
+- Need to enroll into the Apple Developer Program to test (annual cost)
+
+-------------------------------
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
